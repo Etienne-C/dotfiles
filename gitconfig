@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = zsh git_setup.sh
-	name = Etienne Curati etienne.curati@gmail.com
+	email = etienne.curati@gmail.com
+	name = Etienne Curati
